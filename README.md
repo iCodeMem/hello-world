@@ -1,3 +1,3 @@
 hello-world
 ===========
-Me: Kenneth Rary
+Me: Kenneth Ray
